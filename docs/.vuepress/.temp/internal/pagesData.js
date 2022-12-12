@@ -1,6 +1,14 @@
 export const pagesData = {
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
+  // path: /project/react-cli.html
+  "v-61413f94": () => import(/* webpackChunkName: "v-61413f94" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/project/react-cli.html.js").then(({ data }) => data),
+  // path: /project/
+  "v-c9bbfba2": () => import(/* webpackChunkName: "v-c9bbfba2" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/project/index.html.js").then(({ data }) => data),
+  // path: /project/summary.html
+  "v-2a04a4a2": () => import(/* webpackChunkName: "v-2a04a4a2" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/project/summary.html.js").then(({ data }) => data),
+  // path: /project/vue-cli.html
+  "v-04c1b7cf": () => import(/* webpackChunkName: "v-04c1b7cf" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/project/vue-cli.html.js").then(({ data }) => data),
   // path: /base/base.html
   "v-a6cc4bba": () => import(/* webpackChunkName: "v-a6cc4bba" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/base/base.html.js").then(({ data }) => data),
   // path: /base/clean.html
@@ -53,14 +61,6 @@ export const pagesData = {
   "v-2259a8b0": () => import(/* webpackChunkName: "v-2259a8b0" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/origin/index.html.js").then(({ data }) => data),
   // path: /origin/summary.html
   "v-860cdcba": () => import(/* webpackChunkName: "v-860cdcba" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/origin/summary.html.js").then(({ data }) => data),
-  // path: /project/react-cli.html
-  "v-61413f94": () => import(/* webpackChunkName: "v-61413f94" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/project/react-cli.html.js").then(({ data }) => data),
-  // path: /project/
-  "v-c9bbfba2": () => import(/* webpackChunkName: "v-c9bbfba2" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/project/index.html.js").then(({ data }) => data),
-  // path: /project/summary.html
-  "v-2a04a4a2": () => import(/* webpackChunkName: "v-2a04a4a2" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/project/summary.html.js").then(({ data }) => data),
-  // path: /project/vue-cli.html
-  "v-04c1b7cf": () => import(/* webpackChunkName: "v-04c1b7cf" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/project/vue-cli.html.js").then(({ data }) => data),
   // path: /senior/enhanceExperience.html
   "v-7964f787": () => import(/* webpackChunkName: "v-7964f787" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/senior/enhanceExperience.html.js").then(({ data }) => data),
   // path: /senior/liftingSpeed.html

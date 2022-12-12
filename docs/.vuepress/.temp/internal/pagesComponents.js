@@ -3,6 +3,14 @@ import { defineAsyncComponent } from 'vue'
 export const pagesComponents = {
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/index.html.vue")),
+  // path: /project/react-cli.html
+  "v-61413f94": defineAsyncComponent(() => import(/* webpackChunkName: "v-61413f94" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/project/react-cli.html.vue")),
+  // path: /project/
+  "v-c9bbfba2": defineAsyncComponent(() => import(/* webpackChunkName: "v-c9bbfba2" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/project/index.html.vue")),
+  // path: /project/summary.html
+  "v-2a04a4a2": defineAsyncComponent(() => import(/* webpackChunkName: "v-2a04a4a2" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/project/summary.html.vue")),
+  // path: /project/vue-cli.html
+  "v-04c1b7cf": defineAsyncComponent(() => import(/* webpackChunkName: "v-04c1b7cf" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/project/vue-cli.html.vue")),
   // path: /base/base.html
   "v-a6cc4bba": defineAsyncComponent(() => import(/* webpackChunkName: "v-a6cc4bba" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/base/base.html.vue")),
   // path: /base/clean.html
@@ -55,14 +63,6 @@ export const pagesComponents = {
   "v-2259a8b0": defineAsyncComponent(() => import(/* webpackChunkName: "v-2259a8b0" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/origin/index.html.vue")),
   // path: /origin/summary.html
   "v-860cdcba": defineAsyncComponent(() => import(/* webpackChunkName: "v-860cdcba" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/origin/summary.html.vue")),
-  // path: /project/react-cli.html
-  "v-61413f94": defineAsyncComponent(() => import(/* webpackChunkName: "v-61413f94" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/project/react-cli.html.vue")),
-  // path: /project/
-  "v-c9bbfba2": defineAsyncComponent(() => import(/* webpackChunkName: "v-c9bbfba2" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/project/index.html.vue")),
-  // path: /project/summary.html
-  "v-2a04a4a2": defineAsyncComponent(() => import(/* webpackChunkName: "v-2a04a4a2" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/project/summary.html.vue")),
-  // path: /project/vue-cli.html
-  "v-04c1b7cf": defineAsyncComponent(() => import(/* webpackChunkName: "v-04c1b7cf" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/project/vue-cli.html.vue")),
   // path: /senior/enhanceExperience.html
   "v-7964f787": defineAsyncComponent(() => import(/* webpackChunkName: "v-7964f787" */"C:/Users/Administrator/Desktop/project-all/webpack_docs/docs/.vuepress/.temp/pages/senior/enhanceExperience.html.vue")),
   // path: /senior/liftingSpeed.html

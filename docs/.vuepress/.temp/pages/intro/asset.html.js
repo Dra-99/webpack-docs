@@ -6,7 +6,15 @@ export const data = {
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
-  "git": {},
+  "git": {
+    "contributors": [
+      {
+        "name": "dra-99",
+        "email": "wbl111@aliyun.com",
+        "commits": 1
+      }
+    ]
+  },
   "filePathRelative": "intro/asset.md"
 }
 

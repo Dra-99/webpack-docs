@@ -132,7 +132,15 @@ export const data = {
       ]
     }
   ],
-  "git": {},
+  "git": {
+    "contributors": [
+      {
+        "name": "dra-99",
+        "email": "wbl111@aliyun.com",
+        "commits": 1
+      }
+    ]
+  },
   "filePathRelative": "senior/liftingSpeed.md"
 }
 

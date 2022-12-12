@@ -37,7 +37,15 @@ export const data = {
       "children": []
     }
   ],
-  "git": {},
+  "git": {
+    "contributors": [
+      {
+        "name": "dra-99",
+        "email": "wbl111@aliyun.com",
+        "commits": 1
+      }
+    ]
+  },
   "filePathRelative": "project/vue-cli.md"
 }
 

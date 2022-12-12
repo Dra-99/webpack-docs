@@ -2,6 +2,10 @@ import { Vuepress } from '@vuepress/client/lib/components/Vuepress'
 
 const routeItems = [
   ["v-8daa1a0e","/",{"title":"首页"},["/index.html","/README.md"]],
+  ["v-61413f94","/project/react-cli.html",{"title":"React 脚手架"},["/project/react-cli","/project/react-cli.md"]],
+  ["v-c9bbfba2","/project/",{"title":"介绍"},["/project/index.html","/project/README.md"]],
+  ["v-2a04a4a2","/project/summary.html",{"title":"总结"},["/project/summary","/project/summary.md"]],
+  ["v-04c1b7cf","/project/vue-cli.html",{"title":"Vue 脚手架"},["/project/vue-cli","/project/vue-cli.md"]],
   ["v-a6cc4bba","/base/base.html",{"title":"基本使用"},["/base/base","/base/base.md"]],
   ["v-21f1ba15","/base/clean.html",{"title":"自动清空上次打包资源"},["/base/clean","/base/clean.md"]],
   ["v-e703ecdc","/base/config.html",{"title":"基本配置"},["/base/config","/base/config.md"]],
@@ -28,10 +32,6 @@ const routeItems = [
   ["v-2d7562d6","/origin/plugin.html",{"title":"Plugin 原理"},["/origin/plugin","/origin/plugin.md"]],
   ["v-2259a8b0","/origin/",{"title":"介绍"},["/origin/index.html","/origin/README.md"]],
   ["v-860cdcba","/origin/summary.html",{"title":"总结"},["/origin/summary","/origin/summary.md"]],
-  ["v-61413f94","/project/react-cli.html",{"title":"React 脚手架"},["/project/react-cli","/project/react-cli.md"]],
-  ["v-c9bbfba2","/project/",{"title":"介绍"},["/project/index.html","/project/README.md"]],
-  ["v-2a04a4a2","/project/summary.html",{"title":"总结"},["/project/summary","/project/summary.md"]],
-  ["v-04c1b7cf","/project/vue-cli.html",{"title":"Vue 脚手架"},["/project/vue-cli","/project/vue-cli.md"]],
   ["v-7964f787","/senior/enhanceExperience.html",{"title":"提升开发体验"},["/senior/enhanceExperience","/senior/enhanceExperience.md"]],
   ["v-7b858f23","/senior/liftingSpeed.html",{"title":"提升打包构建速度"},["/senior/liftingSpeed","/senior/liftingSpeed.md"]],
   ["v-5489448c","/senior/optimizePerformance.html",{"title":"优化代码运行性能"},["/senior/optimizePerformance","/senior/optimizePerformance.md"]],
